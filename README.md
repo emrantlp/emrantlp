@@ -3,9 +3,7 @@
 
 Love To Learn New Skills. Now Learning JavaScript. Full & Fresh Hand Code Is My Power. Client Satisfaction Is My First Priority.
 
-Skills: HTML / CSS/ Bootstrap/JavaScript/React JS
-
-- 🔭 I’m currently working on Fiverr 
+Skills: HTML / CSS/ Bootstrap
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
