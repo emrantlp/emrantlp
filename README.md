@@ -1,12 +1,12 @@
-# Hi There 👋, I'm Emran Hossain
+# Hi There, I'm Emran Hossain
 ## Learning At Front-End Web Developer
 
 Love To Learn New Skills. Now Learning JavaScript. Full & Fresh Hand Code Is My Power. Client Satisfaction Is My First Priority.
 
 Skills: HTML / CSS/ Bootstrap
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Development 
+- 🌱 I’m Currently Learning JavaScript 
+- 👯 I’m Looking To Collaborate On GitHub 
+- 💬 Ask Me About Web Development 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/emrantlp)  
