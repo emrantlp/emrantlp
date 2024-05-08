@@ -4,7 +4,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=noob-hablu&color=red)
 
-Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 </div>
 
