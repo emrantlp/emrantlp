@@ -1,4 +1,4 @@
-<h1 align="center" color="red">Hi There, I'm Emran Hossain</h1>
+<h1 align="center" color=red>Hi There, I'm Emran Hossain</h1>
 <h3 aiign="center">Learning At Front-End Web Development</h3>
 
 Love To Learn New Skills. Now Learning JavaScript. Full & Fresh Hand Code Is My Power. Client Satisfaction Is My First Priority.
