@@ -3,7 +3,7 @@
 
 <strong>Love To Learn New Skills. Now Learning JavaScript. Full & Fresh Hand Code Is My Power. Client Satisfaction Is My First Priority.</strong>
 
-Skills: HTML / CSS/ Bootstrap
+Skills: <code>HTML / CSS/ Bootstrap</code>
 - 🌱 I’m Currently Learning JavaScript 
 - 👯 I’m Looking To Collaborate On GitHub 
 - 💬 Ask Me About Web Development 
