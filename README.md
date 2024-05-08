@@ -1,6 +1,8 @@
 <h1 align="center">Hi There, I'm Emran Hossain</h1>
 
-![Profile views](https://komarev.com/ghpvc/?username=emrantlp&color=red)
+<div align="center">
+  ![Profile views](https://komarev.com/ghpvc/?username=emrantlp&color=red)
+</div>
 
 <h3>Learning At Front-End Web Development</h3>
 
