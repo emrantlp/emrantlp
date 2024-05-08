@@ -1,7 +1,7 @@
-<h1 align="center" color=red>Hi There, I'm Emran Hossain</h1>
-<h3 aiign="center">Learning At Front-End Web Development</h3>
+<h1 align="center">Hi There, I'm Emran Hossain</h1>
+<h3>Learning At Front-End Web Development</h3>
 
-Love To Learn New Skills. Now Learning JavaScript. Full & Fresh Hand Code Is My Power. Client Satisfaction Is My First Priority.
+<strong>Love To Learn New Skills. Now Learning JavaScript. Full & Fresh Hand Code Is My Power. Client Satisfaction Is My First Priority.</strong>
 
 Skills: HTML / CSS/ Bootstrap
 - 🌱 I’m Currently Learning JavaScript 
