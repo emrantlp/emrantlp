@@ -1,7 +1,11 @@
 <h1 align="center">Hi There, I'm Emran Hossain</h1>
 
 <div align="center">
-  ![Profile views].(https://komarev.com/ghpvc/?username=noob-hablu&color=red).
+
+![Profile views](https://komarev.com/ghpvc/?username=noob-hablu&color=red)
+
+Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
+
 </div>
 
 <h3>Learning At Front-End Web Development</h3>
