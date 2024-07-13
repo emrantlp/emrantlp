@@ -11,7 +11,7 @@
 
 <strong>Love To Learn New Skills. Now Learning JavaScript. Full & Fresh Hand Code Is My Power. Client Satisfaction Is My First Priority.</strong>
 
-<strong>Skills:</strong> <code>HTML / CSS/ Bootstrap</code>
+<strong>Skills:</strong> <code>HTML / CSS/ Tailwind CSS/ SCSS</code>
 - 🌱 <strong>I’m Currently Learning JavaScript</strong> 
 - 👯 <strong>I’m Looking To Collaborate On GitHub</strong>
 - 💬 <strong>Ask Me About Web Development</strong>
