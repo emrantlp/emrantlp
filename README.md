@@ -1,23 +1,31 @@
-<h1 align="center">Hi There, I'm Emran Hossain</h1>
+![Web Developer.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdrltzekgshzocy54061p.jpeg)
 
-<div align="center">
+<h2 align="center">💻 Frontend Web Developer | JavaScript | React | Tailwind CSS</h2>
 
-![Profile views](https://komarev.com/ghpvc/?username=noob-hablu&color=red)
-
-
-</div>
-
-<h3>Learning At Front-End Web Development</h3>
-
-<strong>Love To Learn New Skills. Now Learning JavaScript. Full & Fresh Hand Code Is My Power. Client Satisfaction Is My First Priority.</strong>
-
-<strong>Skills:</strong> <code>HTML / CSS/ Tailwind CSS/ JavaScript/ React</code>
-- 🌱 <strong>I’m Currently Learning JavaScript</strong> 
-- 👯 <strong>I’m Looking To Collaborate On GitHub</strong>
-- 💬 <strong>Ask Me About Web Development</strong>
-  
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a><p align="center">
-  <a href="https://github.com/emrantlp">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emrantlp&theme=radical" alt="Harun's GitHub Contribution"/>
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00AEEF&center=true&vCenter=true&width=435&lines=Passionate+Frontend+Developer;React+%7C+JavaScript+%7C+Tailwind+CSS;Building+awesome+web+experiences!" alt="Typing SVG" />
 </p>
+
+---
+
+<h2>🔥 About Me</h2>
+<h4>👉 Passionate **Frontend Developer** focused on building **modern, responsive, and user-friendly** web applications.</h4>
+<h4>👉 Currently **learning advanced React features & performance optimization**.</h4>
+<h4>👉 Open to **collaborating** on exciting web projects.</h4>
+<h4>👉 Love **problem-solving & UI/UX design**.</h4>
+
+---
+
+<h2>👨‍💻 Tech Stack</h2>
+
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tailwindcss.svg' alt='tailwindcss' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg' alt='git' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg' alt='visualstudiocode' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/figma.svg' alt='figma' height='40'>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical">
+</p>
+
+---
