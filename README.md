@@ -28,4 +28,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical">
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,flask,java,javascript,react,nextjs,bash,cpp,git,solidity,figma" />
+  </a>
+</p>
+
 ---
