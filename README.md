@@ -27,8 +27,6 @@
 ---
 ## 📊 GitHub Stats  
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=emrantlp&show_icons=true&theme=radical">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrantlp&layout=compact&theme=radical">
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrantlp)](https://github.com/anuraghazra/github-readme-stats)
 </p>
